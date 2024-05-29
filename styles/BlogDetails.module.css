@@ -1,0 +1,17 @@
+.details {
+    /* Your CSS styles for the blog details container */
+  }
+  
+  .content {
+    /* Your CSS styles for the content */
+  }
+  
+  .delete, .update {
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  .delete img, .update img {
+    width: 40px;
+  }
+  
